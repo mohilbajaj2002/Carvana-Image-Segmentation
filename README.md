@@ -1,7 +1,7 @@
 
 ### Carvana Image Segmentation Challenge ###
 
-This project attempts to tackle the Image Segmentation challenge posted on Kaggle by Carvana. For the purpose of this project, three architectures were chosen, U-Net, DeepLabV3+ and MobileNetV2. U-Net was chosen due to its popularity among the data science community for this type of task. DeepLabV3+, which is Google's state of the art architecture for semantic image segmentation task at the time of the project was also explored. Finally, a smaller and faster architecture suitable for mobile devices, MobileNetV2 was looked into. 
+This project attempts to tackle the Image Segmentation challenge posted on Kaggle by Carvana. For the purpose of this project, three architectures were chosen, U-Net, DeepLabV3+ and MobileNetV2. U-Net was chosen due to its popularity among the data science community for this type of task. DeepLabV3+, which is Google's state of the art architecture for semantic image segmentation task at the time of the project was also explored. Finally, a smaller and faster architecture suitable for mobile devices, MobileNetV2 was looked into as well. 
 
 
 # Dataset #
